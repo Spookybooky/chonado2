@@ -7,7 +7,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, W
 from aiogram.enums import ParseMode
 
 # --- НАСТРОЙКИ ---
-BOT_TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
+BOT_TOKEN = "9032896470:AAG28FJDQRaADcItk1IWi_KYgjjYWQ10pp0"
 STICKER_ID = "СЮДА_ВСТАВЬТЕ_FILE_ID_СТИКЕРА"  # Получите, отправив стикер боту
 WEBAPP_URL = "https://ваш-сайт.com/miniapp"  # Ссылка на ваше мини-приложение
 # -----------------
